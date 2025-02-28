@@ -1,0 +1,2 @@
+# Loja-HR
+Base bot
