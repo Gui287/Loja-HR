@@ -1,0 +1,17 @@
+{
+  "name": "bot-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", 
+    "dev": "node index.js"     
+  },
+  "keywords": [],
+  "author": "Gui Dev",
+  "license": "ISC",
+  "description": "Base de Bot",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
